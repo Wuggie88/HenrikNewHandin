@@ -1,0 +1,2 @@
+To start the server, use "npm run serverStart" in the server folder (cmd, VSCode terminal or powershell)
+To start client use "npm start" in client folder (cmd, VSCode terminal or powershell)
